@@ -18,13 +18,40 @@ Notes:
 * Other sounds are ignored: R, W, H, Y (as in yolk), and vowels
 * Double letters are treated as a single letter (as it's based on pronunciation)
 
-## Example
+## Usage Example
 
 ```
 bentley uranium possum
 2-415-- ---4--3 9-0--3
 ```
 Now you can remember 241543903 as easily as you can remember a story about a Bentley carrying uranium which hit a possum. To remember it better, you'll need to add more details to the bentley-uranium-possum story (search: "elaborative encoding" for more information on this) and you'll also have to practice (do "reviews") to help make it stick. Like with flash cards or something. Yeah, it's not magic.
+
+## Peg noun example tables
+
+### Single digit words
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| ace | hat | bear | emu | honey | owl | shoe | kiwi | fae | hippo |
+
+### Two-digit words
+
+| Myna2 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| ---: | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **0** | sauce | suit | sub | sumo | snow | seal | sushi | sock | sofa | soap |
+| **1** | dice | [king] tut | tub | dome | tuna | tile | torch | taco | dove | trap |
+| **2** | bus | bat | bob[sled] | bomb | bunny | bell | badger | bug | beaver | beeper |
+| **3** | moose | meteor | moby (whale) | mime | moon | mole | match | mug | [ear]muff | map | 
+| **4** | nurse | newt | nib | gnome | neon onion | anole | nacho | nuke | knife | nope (snake) | 
+| **5** | louse | lady[bug] | lube | lime | lion | lily | leech | lock | lava | leaper (zombie) | 
+| **6** | cheese | cheetah | cherub | chime | ocean | chili | cheshire (cat) | shark | chef | sheep |
+| **7** | goose | goat | crab | grim | crown| gorilla | cash | kayak | quiver | capy(bara) |
+| **8** | fez | ferret | furby | firearm | raven | (pea)fowl | fridge | fig | fifa | vape |
+| **9** | Pisa (tower) | parrot | probe | puma | pony | pearl | peach | pig | puff (pastry) | pawpaw |
+
+More exmples can be found in [`myna-system-max-2-digits.json`](https://github.com/pengowray/myna/blob/main/myna-system-max-2-digits.json) in this repo.
+
+## To do
 
 TODO: 
 - [ ] Other ways to use the Myna system
