@@ -1,5 +1,9 @@
-# Mnemonic Myna System
-For remembering numbers easier.
+# Mnemonic Myna Memory System
+For easier remembering of numbers and dates
+
+## Basics 
+
+To use a word as a mnemonic, replace these sounds with these digits:
 
 |Sound |Digit |
 | --- | --- |
@@ -16,7 +20,8 @@ For remembering numbers easier.
 
 Notes:
 * Other sounds are ignored: R, W, H, Y (as in yolk), and vowels
-* Double letters are treated as a single letter (as it's based on pronunciation)
+* Double letters are treated as a single letter (as it's based on pronunciation not spelling)
+* Unlike the Major memory system, there is no /r/ (more on this below)
 
 ## Usage Example
 
@@ -24,7 +29,7 @@ Notes:
 bentley uranium possum
 2-415-- ---4--3 9-0--3
 ```
-Now you can remember 241543903 as easily as you can remember a story about a Bentley carrying uranium which hit a possum. To remember it better, you'll need to add more details to the bentley-uranium-possum story (search: "elaborative encoding" for more information on this) and you'll also have to practice (do "reviews") to help make it stick. Like with flash cards or something. Yeah, it's not magic.
+Once you've learned the sound-digit associations, you can remember 241543903 as easily as you can remember a story about a Bentley carrying uranium which swerves to avoid a possum. To remember this story better, you'll need to add more details to the bentley-uranium-possum story (search: "elaborative encoding" for more information on this) and you'll also have to practice (do "reviews") to help make it stick. Like with flash cards or something. Yeah, it's not magic.
 
 ## Peg noun example tables
 
@@ -32,7 +37,7 @@ Now you can remember 241543903 as easily as you can remember a story about a Ben
 
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ace | hat | bear | emu | honey | owl | shoe | kiwi | fae | hippo |
+| ace | hat | bear | emu | hen | owl | jay | kiwi | fae | hippo |
 
 ### Two-digit words
 
@@ -65,7 +70,7 @@ TODO:
 - [ ] Add IPA to ambiguous words in json files
 - [ ] Add encoding table in json files
 - [ ] Table of 00 to 99
-- [ ] Skeleton stations 0-9 (sand top brow mouth neck liver [hip]joint [knee]cap fibula peds
+- [ ] Skeleton stations 0-9 (sand top brow mouth neck liver \[hip]joint \[knee]cap fibula peds
 
 ## Dictionary files
 
@@ -78,7 +83,7 @@ TODO:
 
 ## Comparison to the Major system
 
-The Minor system, which is popular with many American memorists, requires the user to either use or think with a "rhotic" accent, differenting /r/ sounds which may not exist in their own English accent. For example, in my Australian accent, the word "nurse", when spoken aloud, has no "R", so using the Major system requires mentally flipping between the sounds of a word and the spelling, either that or switching to a rhotic Scottish accent (which comes to me more easily than an American one). This mismatch leads to more errors and difficulty with memorizing.
+The Minor system, which is popular with many American memorists, requires the user to either use or think with a "rhotic" accent, differenting /r/ sounds which may not exist in their own English accent. For example, in my Australian accent, the word "nurse", when spoken aloud, has no "R", so using the Major system requires mentally flipping between the sounds of a word and the spelling, either that or switching mentally to a rhotic accent (which, for me, means thinking in Scots English). This mismatch or added overhead leads to more errors and difficulty with using the Major memory system.
 
 The Myna system removes this mental hurdle by treating all /r/ sounds the same as vowels. In other words, ignoring them. B and P sounds, which are combined in the Major system, are split up to fill the space. Also the "th" sound are moved away from being grouped with "T" and "D" sounds to be with the F & V sounds, better matching English accents which group these sounds together (such as Cockney), and a little more evenly distributing sounds across numbers. For no reason other than aesthetics, The N sound was moved to 4 to make space for B at 2. This allows B to be 2, and for M to be followed by N, like in the alphabet. It would have forever been itching at me if I had not made 2 B.
 
