@@ -109,7 +109,7 @@
     "96": ["apache", "aperture", "apogee", "approach", "eppich", "hauppauge", "hipsher", "paasch", "paci", "page", "pager", "pagey", "paige", "parch", "parcher", "parish", "parrish", "partch", "pash", "pasha", "patch", "patchy", "pautsch", "peach", "peacher", "peachey", "peachy", "pecci", "pecha", "peerage", "perch", "perish", "perjure", "perjurer", "perjury", "pershare", "persia", "pesch", "pesh", "peshawar", "petsch", "petsche", "peugeot", "pga", "ph", "piaget", "picchu", "picha", "piche", "picher", "piech", "pietsch", "pitch", "pitcher", "pitsch", "poach", "poacher", "poage", "poche", "podge", "poggi", "pooch", "porch", "porcher", "porridge", "porsche", "portia", "posch", "posh", "pouch", "poucher", "preach", "preacher", "preachy", "prescher", "pressure", "prosch", "proshare", "prucha", "prusha", "prussia", "pshaw", "pshew", "pucci", "puccio", "puche", "pudgie", "pudgy", "purge", "pusch", "push", "pusher", "pushy", "putsch", "pysher", "rapacz", "rapture", "reppucci", "reproach", "repsher", "rupture", "upshaw", "upshur"],
     "97": ["aipac", "apcar", "apec", "apgar", "epic", "epicure", "epoch", "hapag", "hapke", "hepker", "hopke", "ipco", "ipock", "opaque", "opec", "opic", "pac", "paca", "paccar", "pack", "packer", "paco", "paek", "pagar", "paik", "pajak", "pak", "pake", "pakeha", "paque", "parag", "paraguay", "parc", "parekh", "parga", "pariagua", "parikh", "park", "parka", "parke", "parker", "parkey", "parkway", "parquet", "parrack", "payco", "peak", "peake", "pearcy", "pech", "pechora", "peck", "pecka", "peco", "pecor", "pecora", "pecoraro", "pecore", "peek", "peg", "pegg", "peggie", "peggy", "peguero", "pekar", "peko", "perc", "peregoy", "perich", "perigo", "perk", "perkey", "perko", "perky", "perrigo", "perugia", "pic", "pica", "picaro", "picchi", "picco", "pick", "pickar", "picker", "pickier", "picky", "pico", "picou", "picower", "piercy", "pig", "pigg", "piggee", "piggy", "pigue", "pik", "pike", "piker", "pique", "pirkey", "pirko", "pirog", "poag", "poch", "pock", "poco", "pog", "pogo", "pogue", "poke", "poker", "pokey", "poky", "pookie", "porcaro", "porchia", "porco", "porgy", "pork", "porker", "porky", "porreca", "praeger", "prager", "prague", "prego", "prick", "pricor", "prig", "prigge", "proch", "prock", "procure", "procurer", "prorok", "puck", "pucker", "pug", "puga", "puig", "puke", "purk", "purkey", "pyhrric", "pyka", "pyke", "pyrrhic", "rapoca", "repack", "repka", "repko", "ripka", "ripke", "ripperger", "roepke", "ropak", "whipkey"],
     "98": ["apathy", "approve", "hepfer", "hepworth", "hopf", "hopfer", "hupfer", "opfer", "paeth", "paff", "paiva", "parfait", "path", "pathe", "pathway", "pavao", "pave", "paver", "pavey", "pavia", "pavo", "payoff", "peavey", "peavy", "peeve", "peevey", "peevy", "peffer", "peifer", "peiffer", "periphery", "perth", "peth", "pevey", "piepho", "pifer", "pipher", "pith", "pithy", "piver", "poff", "poof", "poovey", "porath", "porphyry", "porth", "poth", "pothier", "prather", "prefer", "preview", "prevo", "privy", "proffer", "proof", "prothero", "prothro", "prove", "provera", "provo", "puff", "puffer", "puffery", "puffy", "purifier", "purifoy", "purify", "purvey", "purveyor", "purview", "puth", "pythia", "reprieve", "ripoff", "rpf", "unprofor", "uphoff", "upriver", "warpath", "wipf", "yuppify"],
-    "99": ["apopa", "apropos", "hip-hop", "hyperopia", "paap", "paape", "pap", "papa", "papaw", "papay", "papaya", "pape", "paper", "papery", "papier", "papo", "papp", "pappa", "papua", "paup", "pauper", "pee-pee", "peep", "peipu", "pep", "pepe", "peper", "pepi", "pepper", "peppi", "peppy", "pieper", "pip", "pipe", "piper", "pipp", "poop", "pooper", "pop", "popa", "pope", "popeye", "popp", "poppa", "poppe", "poppea", "popper", "poppy", "popu", "potpourri", "prep", "prepare", "preparer", "prepay", "preppie", "preppy", "prop", "proper", "propp", "propper", "puipoe", "pup", "pupa", "pupo", "puppy", "purpa", "pyper", "repap", "wrapup"],
+    "99": ["apopa", "apropos", "hip-hop", "hyperopia", "paap", "paape", "pap", "papa", "papaw", "papay", "papaya", "pape", "paper", "papery", "papier", "papo", "papp", "pappa", "papua", "paup", "pauper", "pee-pee", "peep", "peipu", "pep", "pepe", "peper", "pepi", "pepper", "peppi", "peppy", "pieper", "pip", "pipe", "piper", "pipp", "poop", "pooper", "pop", "popa", "pope", "popeye", "popp", "poppa", "poppe", "poppea", "popper", "poppy", "popu", "potpourri", "prep", "prepare", "preparer", "prepay", "preppie", "preppy", "prop", "proper", "propp", "propper", "puipoe", "pup", "pupa", "pupo", "puppy", "purpa", "pyper", "repap", "wrapup"]
   },
   "ambiguous": {
     "acero": ["0", "8"],
@@ -395,18 +395,18 @@
     "yochum": ["63", "73"],
     "yurchak": ["67", "7"],
     "zachi": ["06", "07"],
-    "zedillo": ["01", "015"],
+    "zedillo": ["01", "015"]
   },
   "missing": [
     
   ],
   "statistics": {
-    "total numbers": 110, 
-    "total words": 32521, 
-    "ambiguous word count": 284, 
-    "gap count (wordless numbers) 1-digit": 0, 
-    "gap count, 2-digit": 0, 
-    "digits in gaps, least to most gaps (1-2 digits)": "0 1 2 3 4 5 6 7 8 9", 
-    "digits in use, most to least words": "1 7 0 5 4 8 3 6 2 9", 
+    "total numbers": "110",
+    "total words": "32521",
+    "ambiguous word count": "284",
+    "gap count, 1-digit": "0",
+    "gap count, 2-digit": "0",
+    "digits in numbers with 1+ word, most to least (1-2 digits)": "0 1 2 3 4 5 6 7 8 9",
+    "digits in numbers for all words, most to least": "1 7 0 5 4 8 3 6 2 9"
   }
 }

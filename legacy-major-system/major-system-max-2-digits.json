@@ -109,7 +109,7 @@
     "96": ["abash", "abasia", "apache", "apogee", "b-j", "baasch", "bacci", "bacha", "bache", "badge", "baggio", "baisch", "basch", "bash", "basha", "bashaw", "batch", "bauch", "bausch", "bautch", "baywatch", "beach", "beachy", "beech", "beechy", "beige", "beji", "besch", "betcha", "betsch", "bewitch", "biaggi", "biagi", "biggio", "bihac", "bisch", "bish", "bitchy", "boccia", "boccio", "boche", "boege", "boesch", "boge", "boggio", "bosch", "boschee", "bosh", "botch", "bouch", "bouche", "bouchey", "bouchie", "bougie", "boyish", "bucci", "buch", "buche", "buchi", "budge", "bueche", "buege", "busch", "busche", "bush", "busha", "bushaw", "bushee", "bushey", "bushway", "bushy", "butch", "butsch", "eppich", "hauppauge", "hibachi", "huebsch", "ohbayashi", "paasch", "paci", "page", "pagey", "paige", "pash", "pasha", "patch", "patchy", "pautsch", "peach", "peachey", "peachy", "pecci", "pecha", "pesch", "pesh", "petsch", "petsche", "peugeot", "pga", "ph", "piaget", "picchu", "picha", "piche", "piech", "pietsch", "pitch", "pitsch", "poach", "poage", "poche", "podge", "poggi", "pooch", "posch", "posh", "pouch", "pshaw", "pshew", "pucci", "puccio", "puche", "pudgie", "pudgy", "pusch", "push", "pushy", "putsch", "upshaw", "wabash", "wiebusch"],
     "97": ["abacha", "aback", "abaco", "abco", "abiquiu", "aipac", "apec", "baack", "baca", "bacchi", "bach", "back", "backe", "backhoe", "baek", "bag", "bagg", "bagge", "baggie", "baggy", "baig", "bak", "baka", "bake", "bakey", "bakke", "baku", "balky", "bayog", "bayuk", "beak", "beaucoup", "bec", "becca", "beck", "becki", "beckie", "becky", "beco", "beeck", "beek", "beg", "begay", "begg", "begue", "bekaa", "bekki", "bic", "bick", "big", "biggie", "bike", "biko", "boak", "boake", "boca", "boch", "bock", "boeck", "boeke", "bog", "bogey", "bogie", "bogue", "bohac", "boik", "boike", "bok", "boock", "boogie", "book", "bookie", "bouck", "bouquet", "bowick", "boyack", "boyko", "buc", "bucco", "buck", "buckey", "buckeye", "bucko", "bucky", "bug", "bugai", "bugay", "bugeye", "bugg", "bugge", "buggy", "bugh", "buick", "bujak", "epic", "epoch", "habeck", "habich", "habig", "hapag", "hapke", "hibaaq", "hoback", "hopke", "hubco", "hubka", "ibach", "ipco", "ipock", "opaque", "opec", "opic", "pac", "paca", "pack", "paco", "paek", "paik", "pajak", "pak", "pake", "pakeha", "paque", "payco", "peak", "peake", "pech", "peck", "pecka", "peco", "peek", "peg", "pegg", "peggie", "peggy", "peko", "pic", "pica", "picchi", "picco", "pick", "picky", "pico", "picou", "pig", "pigg", "piggee", "piggy", "pigue", "pik", "pike", "pique", "poag", "poch", "pock", "poco", "pog", "pogo", "pogue", "poke", "pokey", "poky", "pookie", "puck", "pug", "puga", "puig", "puke", "pyka", "pyke", "whipkey", "wiebke", "wobig"],
     "98": ["above", "baffa", "bava", "beauvais", "beef", "beefy", "beehive", "beffa", "behalf", "behave", "behof", "behoff", "behoove", "bev", "bevy", "biev", "biff", "boeve", "boff", "boffa", "boffo", "bopha", "bouvier", "bova", "bove", "bovee", "bovey", "bufe", "buff", "buffa", "buffo", "buffy", "hopf", "paff", "paiva", "pavao", "pave", "pavey", "pavia", "pavo", "payoff", "peavey", "peavy", "peeve", "peevey", "peevy", "pevey", "piepho", "poff", "poof", "poovey", "puff", "puffy", "uphoff", "wipf", "yuppify"],
-    "99": ["ababa", "apopa", "baab", "bab", "baba", "babb", "babbio", "babe", "babu", "baby", "bebb", "bebe", "bebeau", "bebee", "beebe", "beeby", "beep", "bib", "biba", "bibb", "bibbee", "bibbo", "bibby", "bibeau", "bibeault", "bibee", "bibi", "biby", "bip", "bob", "bobb", "bobbi", "bobbie", "bobbo", "bobby", "bobe", "bobo", "boob", "booby", "boop", "bop", "bopp", "bp", "bub", "bubb", "bubba", "bupp", "bybee", "bye-bye", "habeeb", "habib", "habibi", "habibie", "hip-hop", "hubbub", "paap", "paape", "pap", "papa", "papaw", "papay", "papaya", "pape", "papo", "papp", "pappa", "papua", "paup", "pee-pee", "peep", "peipu", "pep", "pepe", "pepi", "peppi", "peppy", "pip", "pipe", "pipp", "pooh-bah", "poop", "pop", "popa", "pope", "popeye", "popp", "poppa", "poppe", "poppea", "poppy", "popu", "pub", "puipoe", "pup", "pupa", "pupo", "puppy"],
+    "99": ["ababa", "apopa", "baab", "bab", "baba", "babb", "babbio", "babe", "babu", "baby", "bebb", "bebe", "bebeau", "bebee", "beebe", "beeby", "beep", "bib", "biba", "bibb", "bibbee", "bibbo", "bibby", "bibeau", "bibeault", "bibee", "bibi", "biby", "bip", "bob", "bobb", "bobbi", "bobbie", "bobbo", "bobby", "bobe", "bobo", "boob", "booby", "boop", "bop", "bopp", "bp", "bub", "bubb", "bubba", "bupp", "bybee", "bye-bye", "habeeb", "habib", "habibi", "habibie", "hip-hop", "hubbub", "paap", "paape", "pap", "papa", "papaw", "papay", "papaya", "pape", "papo", "papp", "pappa", "papua", "paup", "pee-pee", "peep", "peipu", "pep", "pepe", "pepi", "peppi", "peppy", "pip", "pipe", "pipp", "pooh-bah", "poop", "pop", "popa", "pope", "popeye", "popp", "poppa", "poppe", "poppea", "poppy", "popu", "pub", "puipoe", "pup", "pupa", "pupo", "puppy"]
   },
   "ambiguous": {
     "acero": ["04", "14"],
@@ -309,18 +309,18 @@
     "yochum": ["63", "73"],
     "yurchak": ["467", "47"],
     "zachi": ["06", "07"],
-    "zedillo": ["01", "015"],
+    "zedillo": ["01", "015"]
   },
   "missing": [
     
   ],
   "statistics": {
-    "total numbers": 110, 
-    "total words": 18302, 
-    "ambiguous word count": 198, 
-    "gap count (wordless numbers) 1-digit": 0, 
-    "gap count, 2-digit": 0, 
-    "digits in gaps, least to most gaps (1-2 digits)": "0 1 2 3 4 5 6 7 8 9", 
-    "digits in use, most to least words": "1 5 0 7 4 2 9 6 3 8", 
+    "total numbers": "110",
+    "total words": "18302",
+    "ambiguous word count": "198",
+    "gap count, 1-digit": "0",
+    "gap count, 2-digit": "0",
+    "digits in numbers with 1+ word, most to least (1-2 digits)": "0 1 2 3 4 5 6 7 8 9",
+    "digits in numbers for all words, most to least": "1 5 0 7 4 2 9 6 3 8"
   }
 }

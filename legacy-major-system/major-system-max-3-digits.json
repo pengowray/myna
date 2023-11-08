@@ -1054,7 +1054,7 @@
     "996": ["babbage", "babich", "babish", "babyish", "bebitch", "papesh", "popejoy", "webpage"],
     "997": ["apopka", "babiak", "babic", "babik", "babka", "babyak", "biopic", "boback", "bobak", "bobeck", "bobek", "bobick", "bubeck", "bubka", "buyback", "papago", "papke", "payback", "peapack", "pewabic", "popek", "popick", "popik", "popko", "pubco", "pubic"],
     "998": ["popoff", "popov"],
-    "999": ["bebop", "bopeep", "popup"],
+    "999": ["bebop", "bopeep", "popup"]
   },
   "ambiguous": {
     "accounted": ["721", "7211"],
@@ -1526,20 +1526,21 @@
     "zachi": ["06", "07"],
     "zedillo": ["01", "015"],
     "zedillo's": ["010", "0150"],
-    "zedillos": ["010", "0150"],
+    "zedillos": ["010", "0150"]
   },
   "missing": [
     "063", "066", "068", "069", "083", "088", "099", "168", "193", "206", "229", "266", "289", "298", "333", "336", "368", "388", "398", "433", "455", "466", "489", "555", "558", "566", "568", "589", "663", "668", "683", "688", "689", "693", "699", "768", "789", "829", "833", "838", "866", "868", "879", "883", "887", "888", "889", "893", "898", "899", "933", "938", "966", "988", "989"
   ],
   "statistics": {
-    "total numbers": 1055, 
-    "total words": 50012, 
-    "ambiguous word count": 470, 
-    "gap count (wordless numbers) 1-digit": 0, 
-    "gap count, 2-digit": 0, 
-    "gap count, 3-digit": 55, 
-    "digits in gaps, least to most gaps (1-3 digits)": "1 4 7 2 5 0 3 6 9 8", 
-    "digits in use, most to least words": "1 4 0 7 5 2 9 3 6 8", 
-    "digits in gaps, least to most gaps (3-digit)": "1 4 7 2 5 0 3 6 9 8", 
+    "total numbers": "1055",
+    "total words": "50012",
+    "ambiguous word count": "470",
+    "gap count, 1-digit": "0",
+    "gap count, 2-digit": "0",
+    "gap count, 3-digit": "55",
+    "digits in numbers with 1+ word, most to least (1-3 digits)": "1 4 7 2 5 0 3 6 9 8",
+    "digits in numbers for all words, most to least": "1 4 0 7 5 2 9 3 6 8",
+    "digits in gaps, least to most gaps (3-digit)": "1 4 7 2 5 0 3 6 9 8",
+    "digits in gaps, least to most gaps (4-digit)": "0 1 2 3 4 5 6 7 8 9"
   }
 }
