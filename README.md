@@ -54,7 +54,7 @@ Once you've learned the sound-digit associations, you can remember 241543903 as 
 | **8** | fez | ferret | furby | firearm | raven | (pea)fowl | fridge | fig | fifa | vape |
 | **9** | Pisa (tower) | parrot | probe | puma | pony | pearl | peach | pig | puff (pastry) | pawpaw |
 
-More exmples can be found in [`myna-system-max-2-digits.json`](https://github.com/pengowray/myna/blob/main/myna-system-max-2-digits.json) in this repo.
+More mnemonic words and their myna digits can be found in [`myna-system-max-2-digits.json`](https://github.com/pengowray/myna/blob/main/myna-system-max-2-digits.json) in this repo.
 
 ## To do
 
@@ -63,13 +63,12 @@ TODO:
 - [ ] Other ways to learn the Myna system
 - [ ] A web page where you can translate between numbers and mnemonic words
 - [ ] Gather feedback 
-- [ ] Clean up json and get it parsing
 - [ ] Explain better / more
 - [ ] Why "Myna"?
 - [ ] Why 241543903 ?
 - [ ] Add IPA to ambiguous words in json files
 - [ ] Add encoding table in json files
-- [ ] Table of 00 to 99
+- [X] Table of 00 to 99
 - [ ] Skeleton stations 0-9 (sand top brow mouth neck liver \[hip]joint \[knee]cap fibula peds
 
 ## Dictionary files
