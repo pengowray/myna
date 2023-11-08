@@ -44,11 +44,11 @@ Once you've learned the sound-digit associations, you can remember 241543903 as 
 | Myna2 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | ---: | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **0** | sauce | suit | sub | sumo | snow | seal | sushi | sock | sofa | soap |
-| **1** | dice | [king] tut | tub | dome | tuna | tile | torch | taco | dove | trap |
-| **2** | bus | bat | bob[sled] | bomb | bunny | bell | badger | bug | beaver | beeper |
-| **3** | moose | meteor | moby (whale) | mime | moon | mole | match | mug | [ear]muff | map | 
+| **1** | dice | dodo | tub | dome | tuna | drill | torch | taco | dove | trap |
+| **2** | bus | bat | bob(sled) | bomb | bunny | bell | badger | bug | beaver | beeper |
+| **3** | moose | meteor | moby (whale) | mime | moon | mole | match | mug | (ear)muff | map | 
 | **4** | nurse | newt | nib | gnome | neon onion | anole | nacho | nuke | knife | nope (snake) | 
-| **5** | louse | lady[bug] | lube | lime | lion | lily | leech | lock | lava | leaper (zombie) | 
+| **5** | louse | lady(bug) | lube | lime | lion | lily | leech | lock | lava | leaper (zombie) | 
 | **6** | cheese | cheetah | cherub | chime | ocean | chili | cheshire (cat) | shark | chef | sheep |
 | **7** | goose | goat | crab | grim | crown| gorilla | cash | kayak | quiver | capy(bara) |
 | **8** | fez | ferret | furby | firearm | raven | (pea)fowl | fridge | fig | fifa | vape |
@@ -70,6 +70,7 @@ TODO:
 - [ ] Add encoding table in json files
 - [X] Table of 00 to 99
 - [ ] Skeleton stations 0-9 (sand top brow mouth neck liver \[hip]joint \[knee]cap fibula peds
+- [ ] Using with other memory techniques such as method of loci, PAO (person, action, object), link system, etc
 
 ## Dictionary files
 
