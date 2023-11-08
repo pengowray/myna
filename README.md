@@ -47,7 +47,7 @@ Once you've learned the sound-digit associations, you can remember 241543903 as 
 | **1** | dice | dodo | tub | dome | tuna | drill | torch | taco | dove | trap |
 | **2** | bus | bat | bob(sled) | bomb | bunny | bell | badger | bug | beaver | beeper |
 | **3** | moose | meteor | moby (whale) | mime | moon | mole | match | mug | (ear)muff | map | 
-| **4** | nurse | newt | nib | gnome | neon onion | anole | nacho | nuke | knife | nope (snake) | 
+| **4** | nasa (rocket) | newt | nib | gnome | onion | anole | nacho | nuke | knife | nope (snake) | 
 | **5** | louse | lady(bug) | lube | lime | lion | lily | leech | lock | lava | leaper (zombie) | 
 | **6** | cheese | cheetah | cherub | chime | ocean | chili | cheshire (cat) | shark | chef | sheep |
 | **7** | goose | goat | crab | grim | crown| gorilla | cash | kayak | quiver | capy(bara) |
